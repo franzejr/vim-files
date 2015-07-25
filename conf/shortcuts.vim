@@ -67,6 +67,9 @@ nnoremap <leader>nh :noh<CR>
 " source current file
 nnoremap <leader>so :source %<CR>
 
+
+nnoremap <silent> <leader>qq :%s/\s\+$//<CR>:let @/=''<CR><C-o>
+
 " open vim-files
 fun! OpenVIMFiles()
   exe "tabnew"
