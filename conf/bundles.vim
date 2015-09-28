@@ -48,6 +48,7 @@ NeoBundle 'sickill/vim-pasta'
 NeoBundle 'mhinz/vim-startify'
 
 NeoBundle 'rking/ag.vim'
+NeoBundle 'mileszs/ack.vim'
 
 NeoBundle 'wellle/targets.vim'
 
