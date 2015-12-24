@@ -57,6 +57,7 @@ The most important plugins I use are:
 * [vim-ruby] - helps editing Ruby source code
 * [vim-ruby-refactoring] - helps ruby code refactor
 * [rails.vim] - adds syntax highlight and helps editing Rails apps
+* [elm.vim] - vim plugin for the Elm programming language
 * [vim-textobj-rubyblock] - creates Vim text objects for ruby code(`ir`, `ar`).
   Also lets you use `%` to move between `do .. end`, `if .. end` and other paired
   ruby keywords
@@ -106,6 +107,7 @@ The most important plugins I use are:
 [neosnippet]: https://github.com/Shougo/neosnippet.vim
 [neocomplete]: https://github.com/Shougo/neocomplete.vim
 [Ack]: https://github.com/mileszs/ack.vim
+[elm.vim]: https://github.com/lambdatoast/elm.vim
 
 ## Organization
 

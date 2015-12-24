@@ -99,6 +99,10 @@ NeoBundle 'gregsexton/gitv'
 NeoBundle 'mhinz/vim-signify'
 NeoBundle 'mattn/gist-vim', { 'depends' : 'mattn/webapi-vim' }
 
+" Elm
+
+NeoBundle 'lambdatoast/elm.vim'
+
 " Themes
 NeoBundle 'tomasr/molokai'
 NeoBundle 'chriskempson/tomorrow-theme', {'rtp': 'vim/'}
