@@ -10,3 +10,9 @@ source $HOME/.vim/conf/shortcuts.vim
 if filereadable(expand("$HOME/.vimrc.local"))
   source $HOME/.vimrc.local
 endif
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'thoughtbot/vim-rspec'
+call vundle#end()
