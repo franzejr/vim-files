@@ -32,7 +32,7 @@ The most important plugins I use are:
   UltiSnip Snippets and [NeoSnippet]. Currently, I help maintaining Ruby and Elixir snippets.
 * [NeoSnippet] - snippets engine
 * [delimitMate] - auto close of `()`, `[]`, `{}`
-* [vim-powerline] - beatiful and useful status line. It's going to be deprecated
+* [vim-powerline] - beautiful and useful status line. It's going to be deprecated
   in favor of a [new version][new powerline]. I'm sticking to the old one until that.
 * [scala-vim-support] - scala indentation and syntax highlight
 * [gundo.vim] - fucking awesome way to not loose nothing while undoing things
